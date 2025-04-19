@@ -25,7 +25,7 @@ def classify(num):
 
 def main():
     #titulo
-    st.title('Modelamiento de Heart Desease')
+    st.title('Modelamiento de Heart Disease')
     #titulo de sidebar
     st.sidebar.header('User Input Parameters')
 
